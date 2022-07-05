@@ -7,16 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/skizeji" target="blank"><img src="https://img.shields.io/twitter/follow/skizeji?logo=twitter&style=for-the-badge" alt="skizeji" /></a> </p>
 
-- 🔭 I’m currently working on **basic stuff for school**
+- 🔭 I’m currently working on My It company w/ @jopit
 
-- 🌱 I’m currently learning **Windows server and Powershell**
+- 🌱 I’m currently learning skill on Microsoft Azure / Pentesting. (and codding a IA with SirPepo in my free time)
 
-- 👯 I’m looking to collaborate on **a cool idea**
+- 👯 I' work on a IA with a friend so im busy
 
-- 🤝 I'm going to open my own computer company [Jopitech](jopitech.ch)
+- 🤝 I'have open my IT company www.jopitech.ch
 
-- 💬 Ask me about **WINDOWS SERVEEEEERRR**
-
+- 💬 Ask me about anything
 - 📫 How to reach me **lucas.ruffiner@jopitech.ch**
 
 - ⚡ Fun fact **I play video game and i stream on twitch.tv/SKIZEch**
