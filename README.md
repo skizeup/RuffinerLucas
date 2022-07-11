@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on My It company w/ @jopit
 
-- 🌱 I’m currently learning skill on Microsoft Azure / Pentesting. (and codding a IA with SirPepo in my free time)
+- 🌱 I’m currently learning skill on Microsoft Azure / Pentesting. (and codding a AI with SirPepo in my free time)
 
-- 👯 I' work on a IA with a friend so im busy
+- 👯 I' work on a AI with a friend so im busy
 
 - 🤝 I'have open my IT company www.jopitech.ch
 
